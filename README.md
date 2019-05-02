@@ -1,3 +1,3 @@
-# IXXO
-IXXO Projects
-Tesseract-OCR to grab text from HubStaff Screens.
+Internship Project Repositories
+This repository contains my project which I did as a data science internship.
+
